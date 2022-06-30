@@ -1,4 +1,4 @@
-# Outlined Drop Down Menu - Jetpack Compose
+# Outlined Drop Down Menu - Library - Jetpack Compose
 
 ## Setup
 1. Open the file `settings.gradle` (it looks like that)
