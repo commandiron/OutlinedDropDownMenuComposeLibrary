@@ -37,4 +37,4 @@ OutlinedDropDownMenu(
 )
 ```
 
-## View
+## Hot it looks
