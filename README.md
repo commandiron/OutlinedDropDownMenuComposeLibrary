@@ -1,4 +1,4 @@
-# Outlined Drop Down Menu - Library - Jetpack Compose
+# Outlined Drop Down Menu - Compose
 
 ## How it looks
 
