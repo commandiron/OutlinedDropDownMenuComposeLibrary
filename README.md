@@ -1,4 +1,4 @@
-# Outlined Drop Down Menu - Compose
+# OutlinedDropDownMenuComposeLibrary
 
 ## How it looks
 
