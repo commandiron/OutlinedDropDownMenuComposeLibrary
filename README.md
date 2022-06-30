@@ -1,14 +1,5 @@
 # Outlined Drop Down Menu - Jetpack Compose
-[![](https://androidweekly.net/issues/issue-456/badge)](https://androidweekly.net/issues/issue-456)
-[![Android CI](https://github.com/jeziellago/compose-markdown/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jeziellago/compose-markdown/actions/workflows/ci.yml) [![](https://jitpack.io/v/jeziellago/compose-markdown.svg)](https://jitpack.io/#jeziellago/compose-markdown)
 
-[![Video]()](https://user-images.githubusercontent.com/8452419/127241077-7ccca03b-9718-40a3-aacd-1629f3e40a10.mp4)
-- Markdown
-- HTML
-- Image
-- Highlight
-- Linkfy
-- Table
 ## Setup
 1. Open the file `settings.gradle` (it looks like that)
 ```groovy
