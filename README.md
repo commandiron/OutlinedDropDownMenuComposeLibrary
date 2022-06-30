@@ -26,6 +26,7 @@ dependencies {
 ## Usage
 ```kotlin  
 val items by remember { mutableStateOf(listOf("item 1", "item 2", "item 3")) }
+
 OutlinedDropDownMenu(
     label = "label",
     items = items,
