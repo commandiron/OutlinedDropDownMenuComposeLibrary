@@ -23,6 +23,8 @@ dependencies {
 }
 ```
 
+## Usage
+
 # Supported attributes
 
 Most of the attributes of that a default `Text` composable has are also supported by `MarkdownText`. 
