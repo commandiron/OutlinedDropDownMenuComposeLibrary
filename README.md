@@ -19,7 +19,7 @@ dependencyResolutionManagement {
 3. Add `compose-markdown` dependency
 ```groovy
 dependencies {
-        implementation 'com.github.jeziellago:compose-markdown:0.2.9'
+        implementation 'com.github.commandiron:outlined-drop-down-menu-compose:1.0'
 }
 ```
 
