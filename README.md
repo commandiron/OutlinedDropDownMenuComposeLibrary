@@ -25,35 +25,15 @@ dependencies {
 
 ## Usage
 ```kotlin  
-val markdown = """  
-	# Sample  
-	* Markdown  
-	* [Link](https://example.com)  
-	![Image](https://example.com/img.png)  
-	<a href="https://www.google.com/">Google</a>  
-"""
-
-//Minimal example
-@Composable  
-fun MinimalExampleContent() {  
-    MarkdownText(markdown = markdownContent)  
-} 
-
-//Complex example
-@Composable  
-fun ComplexExampleContent() {  
-     MarkdownText(
-                modifier = Modifier.padding(8.dp),
-                markdown = markdown,
-                textAlign = TextAlign.Center,
-                fontSize = 12.sp,
-                color = LocalContentColor.current,
-                maxLines = 3,
-                fontResource = R.font.montserrat_medium,
-                style = MaterialTheme.typography.overline,
-              
-     )  
-}  
+val items by remember { mutableStateOf(listOf("item 1", "item 2", "item 3")) }
+                    OutlinedDropDownMenu(
+                        label = "label",
+                        items = items,
+                        unit = " unit",
+                        onSelect = {
+                            //SelectedItem
+                        }
+                    )
 ```
 
 # Supported attributes
