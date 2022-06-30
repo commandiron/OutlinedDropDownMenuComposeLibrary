@@ -16,7 +16,7 @@ dependencyResolutionManagement {
 ...
 ```
 2. Sync the project
-3. Add `compose-markdown` dependency
+3. Add dependency
 ```groovy
 dependencies {
         implementation 'com.github.commandiron:outlined-drop-down-menu-compose:1.0'
