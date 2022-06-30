@@ -38,3 +38,5 @@ OutlinedDropDownMenu(
 ```
 
 ## How it looks
+
+<img src="https://user-images.githubusercontent.com/50905347/176656028-735c1557-9a0f-459c-ae18-42e8791f841c.gif" width="250" height="530">
